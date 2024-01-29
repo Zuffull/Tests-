@@ -1,0 +1,9 @@
+/.vscode
+/First.Tests/bin
+/First.Tests/bin/Debug
+/First.Tests/bin/Debug/net7.0
+/First.Tests/obj
+/First/bin
+/First/bin/Debug
+/First/bin/Debug/net7.0
+/First/obj
